@@ -1,5 +1,5 @@
-var isSupported = require('iseventsupported'),
-    ev = require('event');
+var isSupported = require('ramitos-iseventsupported'),
+    ev = require('component-event');
 
 var callbacks = {};
 

@@ -1,0 +1,11 @@
+{
+  "name": "ramitos-mousewheel",
+  "description": "cross-browser mousewheel event handling",
+  "version": "0.0.2",
+  "main": "src/mousewheel.js",
+  "dependencies": {
+    "ramitos-iseventsupported": "git://github.com/npmcomponent/ramitos-iseventsupported.git",
+    "component-event": "git://github.com/npmcomponent/component-event.git"
+  },
+  "license": "MIT"
+}
